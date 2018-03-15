@@ -13,5 +13,4 @@ end
 
 move (board, index, mark="X") 
   board[index]=mark;
-  return display_board
 end
