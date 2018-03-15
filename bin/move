@@ -9,6 +9,6 @@ board = Array.new(9," ")
 
 puts "Where would you like to go?"
 input = gets.strip
-
+index = 
 move(board,input)
 display_board(board)
