@@ -9,3 +9,7 @@ end
 # code your input_to_index and move method here!
 def input_to_index(input_move)
   input_mov.to_i - 1
+end
+
+move (board, index, mark) 
+  
